@@ -1,0 +1,17 @@
+/Users/mac/Desktop/imagelibrary/library/bin/Debug/net8.0/library
+/Users/mac/Desktop/imagelibrary/library/bin/Debug/net8.0/library.deps.json
+/Users/mac/Desktop/imagelibrary/library/bin/Debug/net8.0/library.runtimeconfig.json
+/Users/mac/Desktop/imagelibrary/library/bin/Debug/net8.0/library.dll
+/Users/mac/Desktop/imagelibrary/library/bin/Debug/net8.0/library.pdb
+/Users/mac/Desktop/imagelibrary/library/obj/Debug/net8.0/library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/imagelibrary/library/obj/Debug/net8.0/library.AssemblyInfoInputs.cache
+/Users/mac/Desktop/imagelibrary/library/obj/Debug/net8.0/library.AssemblyInfo.cs
+/Users/mac/Desktop/imagelibrary/library/obj/Debug/net8.0/library.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/imagelibrary/library/obj/Debug/net8.0/library.dll
+/Users/mac/Desktop/imagelibrary/library/obj/Debug/net8.0/refint/library.dll
+/Users/mac/Desktop/imagelibrary/library/obj/Debug/net8.0/library.pdb
+/Users/mac/Desktop/imagelibrary/library/obj/Debug/net8.0/library.genruntimeconfig.cache
+/Users/mac/Desktop/imagelibrary/library/obj/Debug/net8.0/ref/library.dll
+/Users/mac/Desktop/imagelibrary/library/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/mac/Desktop/imagelibrary/library/obj/Debug/net8.0/library.csproj.AssemblyReference.cache
+/Users/mac/Desktop/imagelibrary/library/obj/Debug/net8.0/library.csproj.Up2Date
