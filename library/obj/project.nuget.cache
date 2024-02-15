@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Le9ObxZEPhZtr+rLi4MU8NwyuRYJp6RtTkCS7QfWj4AlOr6sUBcfRJNb4heA+YlxTfdSEnLtSzFBjXxWFKsAjw==",
+  "dgSpecHash": "LiBnEvOQ7PjWuso+1JedbcpO0efVZfoLDODs68BFsmUxyq21C6ZLmqX49Xb8DDY2KipL4BW9JOEy7a7fSpzWfg==",
   "success": true,
-  "projectFilePath": "/Users/mac/Desktop/imagelibrary/library/library.csproj",
+  "projectFilePath": "/Users/macbook-pro/Documents/testProjects/photo-library-server/library/library.csproj",
   "expectedPackageFiles": [
-    "/Users/mac/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
-    "/Users/mac/.nuget/packages/nunit/4.0.1/nunit.4.0.1.nupkg.sha512",
-    "/Users/mac/.nuget/packages/nunit3testadapter/4.5.0/nunit3testadapter.4.5.0.nupkg.sha512"
+    "/Users/macbook-pro/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/macbook-pro/.nuget/packages/nunit/4.0.1/nunit.4.0.1.nupkg.sha512",
+    "/Users/macbook-pro/.nuget/packages/nunit3testadapter/4.5.0/nunit3testadapter.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

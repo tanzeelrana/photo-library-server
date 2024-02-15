@@ -8,12 +8,6 @@ This simple console application allows users to fetch photos from a JSON web ser
 
 ## Packages Used
 
-- Newtonsoft.Json: This package is used for JSON serialization and deserialization. You can install it using the following command:
-
-    ```
-    dotnet add package Newtonsoft.Json
-    ```
-
 ## Instructions
 
 ### Build and Run the Application
@@ -29,20 +23,30 @@ This simple console application allows users to fetch photos from a JSON web ser
     ```
     cd library
     ```
+2. **Dependencies**:  restore the dependencies and project-specific tools specified in the project file (e.g., .csproj, .vbproj, or .fsproj):
 
-3. **Build the Application**: In Visual Studio Code terminal, build the application using the .NET CLI:
+    ```
+    dotnet restore
+    ```
+3. **Newtonsoft.Json**: This package is used for JSON serialization and deserialization. You can install it using the following command:
+
+    ```
+    dotnet add package Newtonsoft.Json
+    ```
+
+4. **Build the Application**: In Visual Studio Code terminal, build the application using the .NET CLI:
 
     ```
     dotnet build
     ```
 
-4. **Run the Application**: Run the application using the .NET CLI:
+5. **Run the Application**: Run the application using the .NET CLI:
 
     ```
     dotnet run
     ```
 
-5. **Enter Album ID**: Follow the prompts to enter the album ID. You can type 'quit' to exit the application.
+6. **Enter Album ID**: Follow the prompts to enter the album ID. You can type 'quit' to exit the application.
 
 ## Usage
 

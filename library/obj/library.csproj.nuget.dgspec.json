@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mac/Desktop/imagelibrary/library/library.csproj": {}
+    "/Users/macbook-pro/Documents/testProjects/photo-library-server/library/library.csproj": {}
   },
   "projects": {
-    "/Users/mac/Desktop/imagelibrary/library/library.csproj": {
+    "/Users/macbook-pro/Documents/testProjects/photo-library-server/library/library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/Desktop/imagelibrary/library/library.csproj",
+        "projectUniqueName": "/Users/macbook-pro/Documents/testProjects/photo-library-server/library/library.csproj",
         "projectName": "library",
-        "projectPath": "/Users/mac/Desktop/imagelibrary/library/library.csproj",
-        "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/Desktop/imagelibrary/library/obj/",
+        "projectPath": "/Users/macbook-pro/Documents/testProjects/photo-library-server/library/library.csproj",
+        "packagesPath": "/Users/macbook-pro/.nuget/packages/",
+        "outputPath": "/Users/macbook-pro/Documents/testProjects/photo-library-server/library/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mac/.nuget/NuGet/NuGet.Config"
+          "/Users/macbook-pro/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
