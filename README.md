@@ -13,12 +13,6 @@ This simple console application allows users to fetch photos from a JSON web ser
     ```
     dotnet add package Newtonsoft.Json
     ```
-- NUnit.Framework: This package is used for unit testing. You can install it using the following command:
-
-    ```
-    dotnet add package NUnit.Framework
-    ```
-    
 
 ## Instructions
 
